@@ -1,2 +1,0 @@
-# Install bcrypt (and it's dependencies)
--e .[tests]
